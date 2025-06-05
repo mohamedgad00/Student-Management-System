@@ -14,7 +14,7 @@
 
 ## 🛠️ Technologies Used
 
-  - **Java** (Swing or JavaFX for GUI)
+  - **Java** (Swing for GUI)
   - **MySQL** (Database)
   - **JDBC** (Java Database Connectivity)
   - **SHA-256** (for password hashing)
