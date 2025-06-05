@@ -21,7 +21,7 @@
   - **JUnit** (for testing)
 
 ## 🗂️ Project Structure
-
+  ```
   StudentManagementSystem/
   │
   ├── src/
@@ -42,6 +42,7 @@
   │ └── student_db.sql
   │
   └── README.md
+   ```
 
 ## 🔐 Password Hashing
 
@@ -90,10 +91,10 @@ The project includes a test package (`/test`) to ensure key components work corr
    git clone https://github.com/your-username/student-management-system.git
 2. **Set up the MySQL database** using the provided `student_db.sql` file or by running the SQL in the *Database Schema* section.
 3. **Update database credentials** in `DBConnection.java`:
-  ```java
-  String url = "jdbc:mysql://localhost:3306/student_db";
-  String user = "your_mysql_user";
-  String password = "your_mysql_password";
-  ```
+    ```java
+    String url = "jdbc:mysql://localhost:3306/student_db";
+    String user = "your_mysql_user";
+    String password = "your_mysql_password";
+    ```
 4. **Build and run** the application using your IDE (e.g., IntelliJ, Eclipse, NetBeans).
 5. **Run tests** using JUnit through your IDE or a test runner.
