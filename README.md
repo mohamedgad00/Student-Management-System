@@ -4,7 +4,7 @@
 
 ## ✅ Features
 
-  - 📝 **Register Page** – Allows new users to register securely.
+  - 📝 **Register Page** – Allows new users to register securely. 
   - 🔐 **Login Page** – Authenticates users using hashed passwords.
   - 🏠 **Home Page** – Displays student information after login.
   - ✏️ **Update Page** – Users can update their information.
