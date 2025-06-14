@@ -75,7 +75,7 @@ CREATE TABLE students (
 
 ## 🧪 Testing
 
-The project includes a test package (`/test`) to ensure key components work correctly:
+The project includes a test package (`/test`) to ensure key components work correctly: 
 
   - `RegisterTest.java` – Tests user registration logic.
   - `LoginTest.java` – Validates login and password matching.
